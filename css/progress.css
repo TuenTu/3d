@@ -1,0 +1,16 @@
+.progress_wrapper {
+  width: 200px;
+  height: 20px;
+  border-radius: 8px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  padding: 4px;
+}
+.progress_line {
+  border-radius: 4px;
+  height: 100%;
+  background-color: rgb(25, 128, 4);
+  width: 1%;
+}
